@@ -1,2 +1,6 @@
 # GroupprojectShoppingClubSystem
 Shopping Club System Using C++ programming Language.
+The data Structure used in this program are Linked list, Stack, array, Queue. We can add data, remove data by information, we can list data etc... This is really medium Level Programming Code.
+This project was built in C++ programming and run on Dev C++ compiler version 5.11…. running this code make sure that compiler support C++ 11 content… 
+Project code separate by h. and .cpp file. This project uses 11 different header file .In shopping.cpp also use total 11 header file. 3 header file use in shopping.cpp for separating file.
+Note ::( the name of the header file is enclosed in double-quote characters (" ") instead of angled brackets (< >). When you are including a C++ system header file, such as iostream, you enclose the name of the file in angled brackets. This indicates that the file is located in the compiler’s include file directory. That is the directory or folder where all of the standard C++ header files are located. When you are including a header file that you have written, such as a class specification file, you enclose the name of the file in doublequote marks. This indicates that the file is located in the current project directory)
